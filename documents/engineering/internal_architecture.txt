@@ -1,0 +1,112 @@
+# Internal Software Engineering Architecture Document
+
+## Project: Employee Management System (EMS)
+
+### Version: 1.0.0
+
+### Last Updated: October 14, 2023
+
+## Contents
+
+- **Introduction**
+- **System Overview**
+- **Technological Stack**
+- **System Architecture**
+- **Database Design**
+- **Security Considerations**
+- **Future Work and Scalability**
+- **Conclusion**
+
+## Introduction
+
+This document provides an overview of the architectural design of the Employee Management System (EMS), including the technological stack, system architecture, and security considerations. The EMS is designed to streamline HR operations by automating employee-related tasks such as attendance tracking, payroll processing, and leave management.
+
+## System Overview
+
+The EMS is a web-based application accessible via a web browser. It supports various roles such as Admin, HR Manager, and Employee, each having different access levels and functionalities.
+
+## Technological Stack
+
+- **Frontend**:
+  - ReactJS
+  - Redux
+  - Axios for API requests
+  - Material-UI for design components
+
+- **Backend**:
+  - Node.js
+  - Express.js
+
+- **Database**:
+  - MongoDB
+
+- **Authentication and Authorization**:
+  - JSON Web Tokens (JWT)
+  - OAuth 2.0
+
+- **Version Control**:
+  - Git
+  - GitHub
+
+## System Architecture
+
+### Frontend
+
+The frontend is developed using ReactJS. It interacts with the backend through API requests made using Axios. Redux is used for state management, and Material-UI is utilized for UI components.
+
+### Backend
+
+The backend is a RESTful API built using Node.js and Express.js. It handles requests from the frontend, performs necessary operations, and interacts with the MongoDB database.
+
+### Database
+
+MongoDB is used as the NoSQL database for storing and retrieving application data such as user details, attendance records, and payroll information.
+
+## Database Design
+
+- **Collections**:
+  - Users
+  - Attendance
+  - Payroll
+  - Leaves
+
+- **Users Collection Schema**:
+  - User ID
+  - Name
+  - Email
+  - Password (hashed)
+  - Role
+  - Department
+
+- **Attendance Collection Schema**:
+  - Attendance ID
+  - User ID
+  - Date
+  - Check-in Time
+  - Check-out Time
+
+(Additional schemas for Payroll and Leaves are defined similarly.)
+
+## Security Considerations
+
+- **Authentication**:
+  - Users are authenticated using JWT and OAuth 2.0.
+  - Passwords are hashed before being stored in the database.
+
+- **Authorization**:
+  - Different roles have different access levels, restricting access to various parts of the application.
+
+- **Data Encryption**:
+  - Data transferred between the frontend and backend is encrypted using HTTPS.
+
+## Future Work and Scalability
+
+- **Scalability**:
+  - The system architecture is designed to be scalable and can handle a larger number of users by horizontally scaling the backend services.
+
+- **Future Features**:
+  - Integration with third-party applications such as calendars and email services.
+
+## Conclusion
+
+This document outlines the architecture of the Employee Management System, designed to be robust, scalable, and secure, ensuring efficient HR management operations.
