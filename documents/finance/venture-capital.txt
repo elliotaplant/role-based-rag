@@ -1,0 +1,118 @@
+Venture capital
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+See also: Venture capital financing, Joint venture, and International joint venture
+History of private equity
+and venture capital
+
+Early history
+(origins of modern private equity)
+The 1980s
+(leveraged buyout boom)
+The 1990s
+(leveraged buyout and the venture capital bubble)
+The 2000s
+(dot-com bubble to the credit crunch)
+The 2010s
+(expansion)
+The 2020s
+(COVID-19 recession)
+vte
+Venture capital (commonly abbreviated as VC) is a form of private equity financing that is provided by venture capital firms or funds to startups, early-stage, and emerging companies that have been deemed to have high growth potential or which have demonstrated high growth (in terms of number of employees, annual revenue, scale of operations, etc.). Venture capital firms or funds invest in these early-stage companies in exchange for equity, or an ownership stake. Venture capitalists take on the risk of financing risky start-ups in the hopes that some of the companies they support will become successful.[1] Because startups face high uncertainty,[2] VC investments have high rates of failure. The start-ups are usually based on an innovative technology or business model and they are usually from high technology industries, such as information technology (IT), clean technology or biotechnology.
+
+
+A financing diagram illustrating how start-up companies are typically financed. First, the new firm seeks out "seed capital" and funding from "angel investors" and accelerators. Then, if the firm can survive through the "valley of death"—the period where the firm is trying to develop on a "shoestring" budget—the firm can seek venture capital financing.
+Typical venture capital investments occur after an initial "seed funding" round. The first round of institutional venture capital to fund growth is called the Series A round. Venture capitalists provide this financing in the interest of generating a return through an eventual "exit" event, such as the company selling shares to the public for the first time in an initial public offering (IPO), or disposal of shares happening via a merger, via a sale to another entity such as a financial buyer in the private equity secondary market or via a sale to a trading company such as a competitor.
+
+In addition to angel investing, equity crowdfunding and other seed funding options, venture capital is attractive for new companies with limited operating history that are too small to raise capital in the public markets and have not reached the point where they are able to secure a bank loan or complete a debt offering. In exchange for the high risk that venture capitalists assume by investing in smaller and early-stage companies, venture capitalists usually get significant control over company decisions, in addition to a significant portion of the companies' ownership (and consequently value). Companies such as Stripe, Airtable, and Brex are highly valued startups, commonly known as Unicorns (when a company has reached a market valuation of over $1 billion). Venture capitalists also often provide strategic advice to the company's executives on its business model and marketing strategies.
+
+Venture capital is also a way in which the private and public sectors can construct an institution that systematically creates business networks for the new firms and industries so that they can progress and develop. This institution helps identify promising new firms and provide them with finance, technical expertise, mentoring, talent acquisition, strategic partnership, marketing "know-how", and business models. Once integrated into the business network, these firms are more likely to succeed, as they become "nodes" in the search networks for designing and building products in their domain.[3] However, venture capitalists' decisions are often biased, exhibiting for instance overconfidence and illusion of control, much like entrepreneurial decisions in general.[4]
+
+History
+Origins of modern venture capital
+Main article: History of venture capital
+Before World War II (1939–1945) venture capital was primarily the domain of wealthy individuals and families. J.P. Morgan, the Wallenbergs, the Vanderbilts, the Whitneys, the Rockefellers, and the Warburgs were notable investors in private companies. In 1938, Laurance S. Rockefeller helped finance the creation of both Eastern Air Lines and Douglas Aircraft, and the Rockefeller family had vast holdings in a variety of companies. Eric M. Warburg founded E.M. Warburg & Co. in 1938, which would ultimately become Warburg Pincus, with investments in both leveraged buyouts and venture capital. The Wallenberg family started Investor AB in 1916 in Sweden and were early investors in several Swedish companies such as ABB, Atlas Copco, and Ericsson in the first half of the 20th century.
+
+Only after 1945 did "true" venture capital investment firms begin to emerge, notably with the founding of American Research and Development Corporation (ARDC) and J.H. Whitney & Company in 1946.[5][6]
+
+Georges Doriot, the "father of venture capitalism",[7] along with Ralph Flanders and Karl Compton (former president of MIT) founded ARDC in 1946 to encourage private-sector investment in businesses run by soldiers returning from World War II. ARDC became the first institutional private-equity investment firm to raise capital from sources other than wealthy families. Unlike most present-day venture capital firms, ARDC was a publicly-traded company. ARDC's most successful investment was its 1957 funding of Digital Equipment Corporation (DEC), which would later be valued at more than $355 million after its initial public offering in 1968. This represented a return of over 1200 times its investment and an annualized rate of return of 101% to ARDC.[8]
+
+Former employees of ARDC went on to establish several prominent venture capital firms including Greylock Partners, founded in 1965 by Charlie Waite and Bill Elfers; Morgan, Holland Ventures, the predecessor of Flagship Ventures, founded in 1982 by James Morgan; Fidelity Ventures, now Volition Capital, founded in 1969 by Henry Hoagland; and Charles River Ventures, founded in 1970 by Richard Burnes.[9] ARDC continued investing until 1971, when Doriot retired. In 1972 Doriot merged ARDC with Textron after having invested in over 150 companies.[10]
+
+John Hay Whitney (1904–1982) and his partner Benno Schmidt (1913–1999) founded J.H. Whitney & Company in 1946. Whitney had been investing since the 1930s, founding Pioneer Pictures in 1933 and acquiring a 15% interest in Technicolor Corporation with his cousin Cornelius Vanderbilt Whitney. Florida Foods Corporation proved Whitney's most famous investment. The company developed an innovative method for delivering nutrition to American soldiers, later known as Minute Maid orange juice and was sold to The Coca-Cola Company in 1960. J.H. Whitney & Company continued to make investments in leveraged buyout transactions and raised $750 million for its sixth institutional private-equity fund in 2005.[citation needed]
+
+Early venture capital and the growth of Silicon Valley
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (January 2021) (Learn how and when to remove this template message)
+One of the first steps toward a professionally managed venture capital industry was the passage of the Small Business Investment Act of 1958. The 1958 Act officially allowed the U.S. Small Business Administration (SBA) to license private "Small Business Investment Companies" (SBICs) to help the financing and management of the small entrepreneurial businesses in the United States.[11] The Small Business Investment Act of 1958 provided tax breaks that helped contribute to the rise of private-equity firms.[12]
+
+During the 1950s, putting a venture capital deal together may have required the help of two or three other organizations to complete the transaction. It was a business that was growing very rapidly, and as the business grew, the transactions grew exponentially.[13] Arthur Rock, one of the pioneers of Silicon Valley during his venturing the Fairchild Semiconductor is often credited with the introduction of the term "venture capitalist" that has since become widely accepted.[14]
+
+During the 1960s and 1970s, venture capital firms focused their investment activity primarily on starting and expanding companies. More often than not, these companies were exploiting breakthroughs in electronic, medical, or data-processing technology. As a result, venture capital came to be almost synonymous with financing of technology ventures. An early West Coast venture capital company was Draper and Johnson Investment Company, formed in 1962[15] by William Henry Draper III and Franklin P. Johnson, Jr. In 1965, Sutter Hill Ventures acquired the portfolio of Draper and Johnson as a founding action.[16] Bill Draper and Paul Wythes were the founders, and Pitch Johnson formed Asset Management Company at that time.
+
+It was also in the 1960s that the common form of private-equity fund, still in use today, emerged. Private-equity firms organized limited partnerships to hold investments in which the investment professionals served as general partner and the investors, who were passive limited partners, put up the capital. The compensation structure, still in use today, also emerged with limited partners paying an annual management fee of 1.0–2.5% and a carried interest typically representing up to 20% of the profits of the partnership.
+
+The growth of the venture capital industry was fueled by the emergence of the independent investment firms on Sand Hill Road, beginning with Kleiner Perkins and Sequoia Capital in 1972. Located in Menlo Park, California, Kleiner Perkins, Sequoia and later venture capital firms would have access to the many semiconductor companies based in the Santa Clara Valley as well as early computer firms using their devices and programming and service companies.[note 1] Kleiner Perkins was the first venture capital firm to open an office on Sand Hill Road in 1972.[17]
+
+Throughout the 1970s, a group of private-equity firms, focused primarily on venture capital investments, would be founded that would become the model for later leveraged buyout and venture capital investment firms. In 1973, with the number of new venture capital firms increasing, leading venture capitalists formed the National Venture Capital Association (NVCA). The NVCA was to serve as the industry trade group for the venture capital industry.[18] Venture capital firms suffered a temporary downturn in 1974, when the stock market crashed and investors were naturally wary of this new kind of investment fund.
+
+It was not until 1978 that venture capital experienced its first major fundraising year, as the industry raised approximately $750 million. With the passage of the Employee Retirement Income Security Act (ERISA) in 1974, corporate pension funds were prohibited from holding certain risky investments including many investments in privately held companies. In 1978, the US Labor Department relaxed certain restrictions of the ERISA, under the "prudent man rule"[note 2], thus allowing corporate pension funds to invest in the asset class and providing a major source of capital available to venture capitalists.
+
+1980s
+The public successes of the venture capital industry in the 1970s and early 1980s (e.g., Digital Equipment Corporation, Apple Inc., Genentech) gave rise to a major proliferation of venture capital investment firms. From just a few dozen firms at the start of the decade, there were over 650 firms by the end of the 1980s, each searching for the next major "home run". The number of firms multiplied, and the capital managed by these firms increased from $3 billion to $31 billion over the course of the decade.[19]
+
+The growth of the industry was hampered by sharply declining returns, and certain venture firms began posting losses for the first time. In addition to the increased competition among firms, several other factors affected returns. The market for initial public offerings cooled in the mid-1980s before collapsing after the stock market crash in 1987, and foreign corporations, particularly from Japan and Korea, flooded early-stage companies with capital.[19]
+
+In response to the changing conditions, corporations that had sponsored in-house venture investment arms, including General Electric and Paine Webber either sold off or closed these venture capital units. Additionally, venture capital units within Chemical Bank and Continental Illinois National Bank, among others, began shifting their focus from funding early stage companies toward investments in more mature companies. Even industry founders J.H. Whitney & Company and Warburg Pincus began to transition toward leveraged buyouts and growth capital investments.[19][20][21]
+
+Venture capital boom and the Internet Bubble
+By the end of the 1980s, venture capital returns were relatively low, particularly in comparison with their emerging leveraged buyout cousins, due in part to the competition for hot startups, excess supply of IPOs and the inexperience of many venture capital fund managers. Growth in the venture capital industry remained limited throughout the 1980s and the first half of the 1990s, increasing from $3 billion in 1983 to just over $4 billion more than a decade later in 1994.[22]
+
+The advent of the World Wide Web in the early 1990s reinvigorated venture capital as investors saw companies with huge potential being formed. Netscape and Amazon (company) were founded in 1994, and Yahoo! in 1995. All were funded by venture capital. Internet IPOs—AOL in 1992; Netcom in 1994; UUNet, Spyglass and Netscape in 1995; Lycos, Excite, Yahoo!, CompuServe, Infoseek, C/NET, and E*Trade in 1996; and Amazon, ONSALE, Go2Net, N2K, NextLink, and SportsLine in 1997—generated enormous returns for their venture capital investors. These returns, and the performance of the companies post-IPO, caused a rush of money into venture capital, increasing the number of venture capital funds raised from about 40 in 1991 to more than 400 in 2000, and the amount of money committed to the sector from $1.5 billion in 1991 to more than $90 billion in 2000.[23]
+
+The bursting of the dot-com bubble in 2000 caused many venture capital firms to fail and financial results in the sector to decline.[citation needed]
+
+Private equity crash
+
+The technology-heavy NASDAQ Composite index peaked at 5,048 in March 2000, reflecting the high point of the dot-com bubble.
+The Nasdaq crash and technology slump that started in March 2000 shook virtually the entire venture capital industry as valuations for startup technology companies collapsed. Over the next two years, many venture firms had been forced to write-off large proportions of their investments, and many funds were significantly "under water" (the values of the fund's investments were below the amount of capital invested). Venture capital investors sought to reduce the size of commitments they had made to venture capital funds, and, in numerous instances, investors sought to unload existing commitments for cents on the dollar in the secondary market. By mid-2003, the venture capital industry had shriveled to about half its 2001 capacity. Nevertheless, PricewaterhouseCoopers' MoneyTree Survey[24] shows that total venture capital investments held steady at 2003 levels through the second quarter of 2005.[citation needed]
+
+Although the post-boom years represent just a small fraction of the peak levels of venture investment reached in 2000, they still represent an increase over the levels of investment from 1980 through 1995. As a percentage of GDP, venture investment was 0.058% in 1994, peaked at 1.087% (nearly 19 times the 1994 level) in 2000 and ranged from 0.164% to 0.182% in 2003 and 2004. The revival of an Internet-driven environment in 2004 through 2007 helped to revive the venture capital environment. However, as a percentage of the overall private-equity market, venture capital has still not reached its mid-1990s level, let alone its peak in 2000.[citation needed]
+
+Venture capital funds, which were responsible for much of the fundraising volume in 2000 (the height of the dot-com bubble), raised only $25.1 billion in 2006, a 2% decline from 2005 and a significant decline from its peak.[25] The decline continued till their fortunes started to turn around in 2010 with $21.8 billion invested (not raised).[26] The industry continued to show phenomenal growth and in 2020 hit $80 billion in fresh capital.[27]
+
+Financing
+Main article: Venture capital financing
+Obtaining venture capital is substantially different from raising debt or a loan. Lenders have a legal right to interest on a loan and repayment of the capital irrespective of the success or failure of a business. Venture capital is invested in exchange for an equity stake in the business. The return of the venture capitalist as a shareholder depends on the growth and profitability of the business. This return is generally earned when the venture capitalist "exits" by selling its shareholdings when the business is sold to another owner.[28]
+
+Venture capitalists are typically very selective in deciding what to invest in, with a Stanford survey of venture capitalists revealing that 100 companies were considered for every company receiving financing.[29] Ventures receiving financing must demonstrate an excellent management team, a large potential market, and most importantly high growth potential, as only such opportunities are likely capable of providing financial returns and a successful exit within the required time frame (typically 3–7 years) that venture capitalists expect.[citation needed]
+
+Because investments are illiquid and require the extended time frame to harvest, venture capitalists are expected to carry out detailed due diligence prior to investment. Venture capitalists also are expected to nurture the companies in which they invest, in order to increase the likelihood of reaching an IPO stage when valuations are favourable. Venture capitalists typically assist at four stages in the company's development:[30]
+
+Idea generation;
+Start-up;
+Ramp-up; and
+Exit
+Because there are no public exchanges listing their securities, private companies meet venture capital firms and other private-equity investors in several ways, including warm referrals from the investors' trusted sources and other business contacts; investor conferences and symposia; and summits where companies pitch directly to investor groups in face-to-face meetings, including a variant known as "Speed Venturing", which is akin to speed-dating for capital, where the investor decides within 10 minutes whether he wants a follow-up meeting. In addition, some new private online networks are emerging to provide additional opportunities for meeting investors.[31]
+
+This need for high returns makes venture funding an expensive capital source for companies, and most suitable for businesses having large up-front capital requirements, which cannot be financed by cheaper alternatives such as debt. That is most commonly the case for intangible assets such as software, and other intellectual property, whose value is unproven. In turn, this explains why venture capital is most prevalent in the fast-growing technology and life sciences or biotechnology fields.[32]
+
+If a company does have the qualities venture capitalists seek including a solid business plan, a good management team, investment and passion from the founders, a good potential to exit the investment before the end of their funding cycle, and target minimum returns in excess of 40% per year, it will find it easier to raise venture capital.[citation needed]
+
+Financing stages
+There are multiple stages of venture financing offered in venture capital, that roughly correspond to these stages of a company's development.[33]
+
+Pre-seed funding: The earliest round of financing needed to prove a new idea, often provided by friends and family, angel investors, startup accelerators, and sometimes by venture capital funds. Equity crowdfunding is also emerging as an option for seed funding.[34]
+Early Stage: Early stage funding includes Seed and Series A financing rounds. Companies use this capital to find product-market fit.[35]
+Growth Capital: Once companies have found product-market fit, companies will use growth capital to scale the business. These are typically larger financing rounds with have higher valuations because the companies have started to prove traction and de-risk the investment. Growth capital typically includes Series B, Series C, and later rounds.
+Exit of venture capitalist: VCs can exit through secondary sale or an initial public offering (IPO) or an acquisition. Early stage VCs may exit in later rounds when new investors (VCs or private-equity investors) buy the shares of existing investors. Sometimes a company very close to an IPO may allow some VCs to exit and instead new investors may come in hoping to profit from the IPO.
+Bridge financing is when a startup seeks funding in between full VC rounds. The objective is to raise a smaller amount of money to "bridge" the gap when current funds are expected to run out prior to planned future funding, intended to meet short-term working capital needs.[36]
+In early stage and growth stage financings, venture-backed companies may also seek to take venture debt.[37]
+

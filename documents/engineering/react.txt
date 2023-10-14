@@ -1,0 +1,191 @@
+React (software)
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+For the open-source mobile application framework, see React Native.
+React
+
+Original author(s)	Jordan Walke
+Developer(s)	Meta and community
+Initial release	May 29, 2013; 10 years ago[1]
+Stable release	
+18.2.0[2] Edit this on Wikidata / 14 June 2022; 15 months ago
+Repository	
+github.com/facebook/react Edit this at Wikidata
+Written in	JavaScript
+Platform	Web platform
+Type	JavaScript library
+License	MIT License
+Website	react.dev 
+React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3][4] for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[5][6][7]
+
+React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality.[8][9]
+
+Basic usage
+The following is a rudimentary example of using React for the web, written in JSX and JavaScript.
+
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+/** A pure component that displays a message */
+const Greeting = () => {
+  return (
+    <div className="hello-world">
+      <h1>Hello, world!</h1>
+    </div>
+  );
+};
+
+/** The main app component */
+const App = () => {
+  return <Greeting />;
+};
+
+/** React is rendered to a root element in the HTML page */
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+based on the HTML document below.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>React App</title>
+</head>
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
+</html>
+The Greeting function is a React component that displays the famous introductory ''Hello, world".
+
+When displayed on a web browser, the result will be a rendering of:
+
+<div class="hello-world">
+  <h1>Hello, world!</h1>
+</div>
+Notable features
+Declarative
+React adheres to the declarative programming paradigm.[10]: 76  Developers design views for each state of an application, and React updates and renders components when data changes. This is in contrast with imperative programming.[11]
+
+Components
+React code is made of entities called components.[10]: 10–12  These components are modular and reusable.[10]: 70  React applications typically consist of many layers of components. The components are rendered to a root element in the DOM using the React DOM library. When rendering a component, values are passed between components through props (short for "properties"). Values internal to a component are called its state.[12]
+
+The two primary ways of declaring components in React are through function components and class components.[10]: 118 [13]: 10 
+
+import React from "react";
+
+/** A pure component that displays a message with the current count */
+const CountDisplay = props => {
+  // The count value is passed to this component as props
+  const { count } = props;
+  return (<div>The current count is {count}.</div>);
+}
+
+/** A component that displays a message that updates each time the button is clicked */
+const Counter = () => {
+  // The React useState Hook is used here to store and update the 
+  // total number of times the button has been clicked.
+  const [count, setCount] = React.useState(0); 
+  return (
+    <div className="counter">
+      <CountDisplay count={count} />
+      <button onClick={() => setCount(count + 1)}>Add one!</button>
+    </div>
+  );
+};
+Function components
+Function components are declared with a function (using JavaScript function syntax or an arrow function expression) that accepts a single "props" argument and returns JSX. From React v16.8 onwards, function components can use state with the useState Hook.
+
+// Function syntax
+function Greeter() {
+  return <div>Hello World</div>;
+}
+
+// Arrow function expression
+const Greeter = () => <div>Hello World</div>;
+React Hooks
+On February 16, 2019, React 16.8 was released to the public, introducing React Hooks.[14] Hooks are functions that let developers "hook into" React state and lifecycle features from function components.[15] Notably, Hooks do not work inside classes — they let developers use more features of React without classes.[16]
+
+React provides several built-in Hooks such as useState,[17][13]: 37  useContext,[10]: 11 [18][13]: 12  useReducer,[10]: 92 [18][13]: 65–66  useMemo[10]: 154 [18][13]: 162  and useEffect.[19][13]: 93–95  Others are documented in the Hooks API Reference.[20][10]: 62  useState and useEffect, which are the most commonly used, are for controlling state[10]: 37  and side effects[10]: 61  respectively.
+
+Rules of hooks
+There are two rules of Hooks[21] which describe the characteristic code patterns that Hooks rely on:
+
+"Only Call Hooks at the Top Level" — Don't call hooks from inside loops, conditions, or nested statements so that the hooks are called in the same order each render.
+"Only Call Hooks from React Functions" — Don't call hooks from plain JavaScript functions so that stateful logic stays with the component.
+Although these rules can't be enforced at runtime, code analysis tools such as linters can be configured to detect many mistakes during development. The rules apply to both usage of Hooks and the implementation of custom Hooks,[22] which may call other Hooks.
+
+Server components
+React server components or "RSC"s[23] are function components that run exclusively on the server. The concept was first introduced in the talk Data Fetching with Server Components Though a similar concept to Server Side Rendering, RSCs do not send corresponding JavaScript to the client as no hydration occurs. As a result, they have no access to hooks. However, they may be asynchronous function, allowing them to directly perform asynchronous operations:
+
+async function MyComponent() {
+  const message = await fetchMessageFromDb();
+
+  return (
+    <div>Message: {message}</div>
+  );
+}
+Currently, server components are most readily usable with Next.js.
+
+Class components
+Class components are declared using ES6 classes. They behave the same way that function components do, but instead of using Hooks to manage state and lifecycle events, they use the lifecycle methods on the React.Component base class.
+
+class ParentComponent extends React.Component {
+  state = { color: 'green' };
+  render() {
+    return (
+      <ChildComponent color={this.state.color} />
+    );
+  }
+}
+The introduction of React Hooks with React 16.8 in February 2019 allowed developers to manage state and lifecycle behaviors within functional components, reducing the reliance on class components.
+
+React Hooks, such as useState for state management and useEffect for side effects, have provided a more streamlined and concise way to build and manage React applications. This shift has led to improved code readability and reusability, encouraging developers to migrate from class components to functional components.
+
+This trend aligns with the broader industry movement towards functional programming and modular design. As React continues to evolve, it's essential for developers to consider the benefits of functional components and React Hooks when building new applications or refactoring existing ones.[24]
+
+Routing
+React itself does not come with built-in support for routing. React is primarily a library for building user interfaces, and it doesn't include a full-fledged routing solution out of the box.
+
+However, there are popular third-party libraries that can be used to handle routing in React applications. One such library is react-router, which provides a comprehensive routing solution for React applications.[25] It allows you to define routes, manage navigation, and handle URL changes in a React-friendly way.
+
+To use react-router, you need to install it as a separate package and integrate it into your React application.
+
+Install react-router-dom using npm or yarn:
+npm install react-router-dom
+Set up your routing configuration in your main application file:
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
+import Home from './components/Home';
+import About from './components/About';
+import Contact from './components/Contact';
+
+function App() {
+  return (
+    <Router>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/about" component={About} />
+        <Route path="/contact" component={Contact} />
+      </Switch>
+    </Router>
+  );
+}
+
+export default App;
+Create the components for each route (e.g., Home, About, Contact).
+With this setup, when the user navigates to different URLs, the corresponding components will be rendered based on the defined routes.
+
+
+There is a Virtual DOM that is used to implement the real DOM
+Virtual DOM
+Another notable feature is the use of a virtual Document Object Model, or Virtual DOM. React creates an in-memory data-structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently.[26] This process is called reconciliation. This allows the programmer to write code as if the entire page is rendered on each change, while React only renders the components that actually change. This selective rendering provides a major performance boost.[27]
+

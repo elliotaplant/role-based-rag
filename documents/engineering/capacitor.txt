@@ -1,0 +1,130 @@
+Capacitor
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+This article is about the device. For the physical phenomenon, see Capacitance. For an overview of types, see Capacitor types.
+"Capacitive" redirects here. For the term used when referring to touchscreens, see Capacitive sensing.
+Capacitor
+
+Type	Passive
+Invented	Ewald Georg von Kleist, Pieter van Musschenbroek 1745; 278 years ago (independently)
+Electronic symbol
+
+A capacitor is an electronic device that stores electrical energy in an electric field by accumulating electric charges on two closely spaced surfaces that are insulated from each other. It is a passive electronic component with two terminals.
+
+The effect of a capacitor is known as capacitance. While some capacitance exists between any two electrical conductors in proximity in a circuit, a capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as the condenser,[1] a term still encountered in a few compound names, such as the condenser microphone.
+
+The physical form and construction of practical capacitors vary widely and many types of capacitor are in common use. Most capacitors contain at least two electrical conductors often in the form of metallic plates or surfaces separated by a dielectric medium. A conductor may be a foil, thin film, sintered bead of metal, or an electrolyte. The nonconducting dielectric acts to increase the capacitor's charge capacity. Materials commonly used as dielectrics include glass, ceramic, plastic film, paper, mica, air, and oxide layers. Capacitors are widely used as parts of electrical circuits in many common electrical devices. Unlike a resistor, an ideal capacitor does not dissipate energy, although real-life capacitors do dissipate a small amount (see Non-ideal behavior). When an electric potential difference (a voltage) is applied across the terminals of a capacitor, for example when a capacitor is connected across a battery, an electric field develops across the dielectric, causing a net positive charge to collect on one plate and net negative charge to collect on the other plate. No current actually flows through the dielectric. However, there is a flow of charge through the source circuit. If the condition is maintained sufficiently long, the current through the source circuit ceases. If a time-varying voltage is applied across the leads of the capacitor, the source experiences an ongoing current due to the charging and discharging cycles of the capacitor.
+
+The earliest forms of capacitors were created in the 1740s, when European experimenters discovered that electric charge could be stored in water-filled glass jars that came to be known as Leyden jars. Today, capacitors are widely used in electronic circuits for blocking direct current while allowing alternating current to pass. In analog filter networks, they smooth the output of power supplies. In resonant circuits they tune radios to particular frequencies. In electric power transmission systems, they stabilize voltage and power flow.[2] The property of energy storage in capacitors was exploited as dynamic memory in early digital computers,[3] and still is in modern DRAM.
+
+History
+See also: Leyden jar
+
+Battery of four Leyden jars in Museum Boerhaave, Leiden, the Netherlands
+In October 1745, Ewald Georg von Kleist of Pomerania, Germany, found that charge could be stored by connecting a high-voltage electrostatic generator by a wire to a volume of water in a hand-held glass jar.[4] Von Kleist's hand and the water acted as conductors and the jar as a dielectric (although details of the mechanism were incorrectly identified at the time). Von Kleist found that touching the wire resulted in a powerful spark, much more painful than that obtained from an electrostatic machine. The following year, the Dutch physicist Pieter van Musschenbroek invented a similar capacitor, which was named the Leyden jar, after the University of Leiden where he worked.[5] He also was impressed by the power of the shock he received, writing, "I would not take a second shock for the kingdom of France."[6]
+
+Daniel Gralath was the first to combine several jars in parallel to increase the charge storage capacity.[7] Benjamin Franklin investigated the Leyden jar and came to the conclusion that the charge was stored on the glass, not in the water as others had assumed. He also adopted the term "battery",[8][9] (denoting the increase of power with a row of similar units as in a battery of cannon), subsequently applied to clusters of electrochemical cells.[10] Leyden jars were later made by coating the inside and outside of jars with metal foil, leaving a space at the mouth to prevent arcing between the foils.[citation needed] The earliest unit of capacitance was the jar, equivalent to about 1.11 nanofarads.[11]
+
+Leyden jars or more powerful devices employing flat glass plates alternating with foil conductors were used exclusively up until about 1900, when the invention of wireless (radio) created a demand for standard capacitors, and the steady move to higher frequencies required capacitors with lower inductance. More compact construction methods began to be used, such as a flexible dielectric sheet (like oiled paper) sandwiched between sheets of metal foil, rolled or folded into a small package.
+
+
+
+Advert from the 28 December 1923 edition of The Radio Times for Dubilier condensers, for use in wireless receiving sets
+Early capacitors were known as condensers, a term that is still occasionally used today, particularly in high power applications, such as automotive systems. The term was first used for this purpose by Alessandro Volta in 1782, with reference to the device's ability to store a higher density of electric charge than was possible with an isolated conductor.[12][1] The term became deprecated because of the ambiguous meaning of steam condenser, with capacitor becoming the recommended term in the UK from 1926,[13] while the change occurred considerably later in the United States. In other countries, the term condensator has been in common use.[citation needed]
+
+Since the beginning of the study of electricity, non-conductive materials like glass, porcelain, paper and mica have been used as insulators. Decades later, these materials were also well-suited for use as the dielectric for the first capacitors. Paper capacitors, made by sandwiching a strip of impregnated paper between strips of metal and rolling the result into a cylinder, were commonly used in the late 19th century; their manufacture started in 1876,[14] and they were used from the early 20th century as decoupling capacitors in telephony.
+
+Porcelain was used in the first ceramic capacitors. In the early years of Marconi's wireless transmitting apparatus, porcelain capacitors were used for high voltage and high frequency application in the transmitters. On the receiver side, smaller mica capacitors were used for resonant circuits. Mica capacitors were invented in 1909 by William Dubilier. Prior to World War II, mica was the most common dielectric for capacitors in the United States.[14]
+
+Charles Pollak (born Karol Pollak), the inventor of the first electrolytic capacitors, found out that the oxide layer on an aluminum anode remained stable in a neutral or alkaline electrolyte, even when the power was switched off. In 1896 he was granted U.S. Patent No. 672,913 for an "Electric liquid capacitor with aluminum electrodes". Solid electrolyte tantalum capacitors were invented by Bell Laboratories in the early 1950s as a miniaturized and more reliable low-voltage support capacitor to complement their newly invented transistor.
+
+With the development of plastic materials by organic chemists during the Second World War, the capacitor industry began to replace paper with thinner polymer films. One very early development in film capacitors was described in British Patent 587,953 in 1944.[14]
+
+Electric double-layer capacitors (now supercapacitors) were invented in 1957 when H. Becker developed a "Low voltage electrolytic capacitor with porous carbon electrodes".[14][15][16] He believed that the energy was stored as a charge in the carbon pores used in his capacitor as in the pores of the etched foils of electrolytic capacitors. Because the double layer mechanism was not known by him at the time, he wrote in the patent: "It is not known exactly what is taking place in the component if it is used for energy storage, but it leads to an extremely high capacity."
+
+The metal–oxide–semiconductor capacitor (MOS capacitor) originates from the metal–oxide–semiconductor field-effect transistor (MOSFET) structure, where the MOS capacitor is flanked by two doped regions.[17] The MOSFET structure was invented by Mohamed M. Atalla and Dawon Kahng at Bell Labs in 1959.[18] The MOS capacitor was later widely adopted as a storage capacitor in memory chips, and as the basic building block of the charge-coupled device (CCD) in image sensor technology.[19] In dynamic random-access memory (DRAM), each memory cell typically consists of a MOSFET and MOS capacitor.[20]
+
+Theory of operation
+Main article: Capacitance
+Overview
+
+Charge separation in a parallel-plate capacitor causes an internal electric field. A dielectric (orange) reduces the field and increases the capacitance.
+
+A simple demonstration capacitor made of two parallel metal plates, using an air gap as the dielectric
+A capacitor consists of two conductors separated by a non-conductive region.[21] The non-conductive region can either be a vacuum or an electrical insulator material known as a dielectric. Examples of dielectric media are glass, air, paper, plastic, ceramic, and even a semiconductor depletion region chemically identical to the conductors. From Coulomb's law a charge on one conductor will exert a force on the charge carriers within the other conductor, attracting opposite polarity charge and repelling like polarity charges, thus an opposite polarity charge will be induced on the surface of the other conductor. The conductors thus hold equal and opposite charges on their facing surfaces,[22] and the dielectric develops an electric field.
+
+An ideal capacitor is characterized by a constant capacitance C, in farads in the SI system of units, defined as the ratio of the positive or negative charge Q on each conductor to the voltage V between them:[21]
+
+A capacitance of one farad (F) means that one coulomb of charge on each conductor causes a voltage of one volt across the device.[23] Because the conductors (or plates) are close together, the opposite charges on the conductors attract one another due to their electric fields, allowing the capacitor to store more charge for a given voltage than when the conductors are separated, yielding a larger capacitance.
+In practical devices, charge build-up sometimes affects the capacitor mechanically, causing its capacitance to vary. In this case, capacitance is defined in terms of incremental changes:
+
+Hydraulic analogy
+
+In the hydraulic analogy, a capacitor is analogous to a rubber membrane sealed inside a pipe – this animation illustrates a membrane being repeatedly stretched and un-stretched by the flow of water, which is analogous to a capacitor being repeatedly charged and discharged by the flow of charge.
+In the hydraulic analogy, charge carriers flowing through a wire are analogous to water flowing through a pipe. A capacitor is like a rubber membrane sealed inside a pipe. Water molecules cannot pass through the membrane, but some water can move by stretching the membrane. The pressure differential is analogous to voltage, while the rate of flow is analogous to electric current:
+
+The current alters the charge on a capacitor: just as the flow of water changes the position of the membrane. More specifically, the effect of an electric current is to increase the charge of one plate of the capacitor, and decrease the charge of the other plate by an equal amount. This is just as when water flow moves the rubber membrane, it increases the amount of water on one side of the membrane, and decreases the amount of water on the other side.
+The more a capacitor is charged, the larger its voltage drop: as the membrane stretches, allowing more water to flow in from the high pressure side, the membrane "pushes back" against the charging current, increasing the pressure differential between the two sides.
+Charge can flow "through" a capacitor even though no individual electron can get from one side to the other. As more water flows into the high pressure side, the expanding membrane pushes an equal quantity of water out of the low pressure side. The flow cannot continue in the same direction forever; the capacitor experiences dielectric breakdown, and analogously the membrane will eventually break.
+The capacitance describes how much charge can be stored on one plate of a capacitor for a given voltage drop. The elasticity of the membrane is analogous to capacitance. A very stretchy, flexible membrane will expand more with a given pressure differential, allowing a greater volume of water to flow into the high pressure side. This corresponds to a higher capacitance than a stiff membrane.
+A charged capacitor stores potential energy, analogously to a stretched membrane.
+Circuit equivalence at short-time limit and long-time limit
+In a circuit, a capacitor can behave differently at different time instants. However, it is usually easy to think about the short-time limit and long-time limit:
+
+In the long-time limit, after the charging/discharging current has saturated the capacitor, no current would come into (or get out of) either side of the capacitor; Therefore, the long-time equivalence of capacitor is an open circuit.
+In the short-time limit, if the capacitor starts with a certain voltage V, since the voltage drop on the capacitor is known at this instant, we can replace it with an ideal voltage source of voltage V. Specifically, if V=0 (capacitor is uncharged), the short-time equivalence of a capacitor is a short circuit.
+Parallel-plate capacitor
+
+Parallel plate capacitor model consists of two conducting plates, each of area A, separated by a gap of thickness d containing a dielectric.
+
+A surface-mount capacitor. The plates, not visible, are layered horizontally between ceramic dielectric layers, and connect alternately to either end-cap, which are visible.
+The simplest model of a capacitor consists of two thin parallel conductive plates each with an area of 
+A separated by a uniform gap of thickness 
+
+Since the separation between the plates is uniform over the plate area, the electric field between the plates 
+E is constant, and directed perpendicularly to the plate surface, except for an area near the edges of the plates where the field decreases because the electric field lines "bulge" out of the sides of the capacitor. This "fringing field" area is approximately the same width as the plate separation, 
+d, and assuming 
+d is small compared to the plate dimensions, it is small enough to be ignored. Therefore, if a charge of 
+ is placed on one plate and 
+ on the other plate (the situation for unevenly charged plates is discussed below), the charge on each plate will be spread evenly in a surface charge layer of constant charge density 
+ coulombs per square meter, on the inside surface of each plate. From Gauss's law the magnitude of the electric field between the plates is 
+ The voltage(difference) 
+ between the plates is defined as the line integral of the electric field over a line (in the z-direction) from one plate to another
+
+The capacitance is defined as 
+C = Q/V. Substituting V above into this equation
+
+Therefore, in a capacitor the highest capacitance is achieved with a high permittivity dielectric material, large plate area, and small separation between the plates.
+
+Since the area 
+A of the plates increases with the square of the linear dimensions and the separation 
+d increases linearly, the capacitance scales with the linear dimension of a capacitor or as the cube root of the volume.
+
+A parallel plate capacitor can only store a finite amount of energy before dielectric breakdown occurs. The capacitor's dielectric material has a dielectric strength Ud which sets the capacitor's breakdown voltage at V = Vbd = Udd. The maximum energy that the capacitor can store is therefore
+
+The maximum energy is a function of dielectric volume, permittivity, and dielectric strength. Changing the plate area and the separation between the plates while maintaining the same volume causes no change of the maximum amount of energy that the capacitor can store, so long as the distance between plates remains much smaller than both the length and width of the plates. In addition, these equations assume that the electric field is entirely concentrated in the dielectric between the plates. In reality there are fringing fields outside the dielectric, for example between the sides of the capacitor plates, which increase the effective capacitance of the capacitor. This is sometimes called parasitic capacitance. For some simple capacitor geometries this additional capacitance term can be calculated analytically.[24] It becomes negligibly small when the ratios of plate width to separation and length to separation are large.
+
+For unevenly charged plates:
+
+If one plate is charged with 
+ while the other is charged with 
+ and if both plates are separated from other materials in the environment, then the inner surface of the first plate will have 
+, and the inner surface of the second plated will have 
+ charge.[citation needed] Therefore, the voltage 
+V between the plates is 
+. Note that the outer surface of both plates will have 
+, but those charges do not affect the voltage between the plates.
+If one plate is charged with 
+Q_{1} while the other is charged with 
+Q_{2}, and if the second plate is connected to ground, then the inner surface of the first plate will have 
+Q_{1}, and the inner surface of the second plated will have 
+. Therefore, the voltage 
+V between the plates is 
+{\textstyle V={\frac {Q_{1}}{C}}}. Note that the outer surface of both plates will have zero charge.

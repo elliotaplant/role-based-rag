@@ -1,0 +1,106 @@
+Interest rate
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+Part of a series on
+Finance
+
+Markets
+Instruments
+Corporate
+Personal
+Public
+Banking
+Regulation · Financial law
+Economic history
+icon Business and Economics portalicon Money portal
+vte
+Part of a series on
+Macroeconomics
+Bank of England
+Basic concepts
+Policies
+Models
+Related fields
+Schools
+People
+See also
+icon Money portal
+icon Business portal
+vte
+An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited, or borrowed (called the principal sum). The total interest on an amount lent or borrowed depends on the principal sum, the interest rate, the compounding frequency, and the length of time over which it is lent, deposited, or borrowed.
+
+The annual interest rate is the rate over a period of one year. Other interest rates apply over different periods, such as a month or a day, but they are usually annualized.
+
+The interest rate has been characterized as "an index of the preference . . . for a dollar of present [income] over a dollar of future income."[1] The borrower wants, or needs, to have money sooner rather than later, and is willing to pay a fee—the interest rate—for that privilege.
+
+Influencing factors
+Interest rates vary according to:
+
+the government's directives to the central bank to accomplish the government's goals
+the currency of the principal sum lent or borrowed
+the term to maturity of the investment
+the perceived default probability of the borrower
+supply and demand in the market
+the amount of collateral
+special features like call provisions
+reserve requirements
+compensating balance
+as well as other factors.
+
+Example
+A company borrows capital from a bank to buy assets for its business. In return, the bank charges the company interest. (The lender might also require rights over the new assets as collateral.)
+
+A bank will use the capital deposited by individuals to make loans to their clients. In return, the bank should pay interest to individuals who have deposited their capital. The amount of interest payment depends on the interest rate and the amount of capital they deposited.
+
+Related terms
+Base rate usually refers to the annualized effective interest rate offered on overnight deposits by the central bank or other monetary authority.[citation needed]
+
+The annual percentage rate (APR) may refer either to a nominal APR or an effective APR (EAPR). The difference between the two is that the EAPR accounts for fees and compounding, while the nominal APR does not.
+
+The annual equivalent rate (AER), also called the effective annual rate, is used to help consumers compare products with different compounding frequencies on a common basis, but does not account for fees.
+
+A discount rate[2] is applied to calculate present value.
+
+For an interest-bearing security, coupon rate is the ratio of the annual coupon amount (the coupon paid per year) per unit of par value, whereas current yield is the ratio of the annual coupon divided by its current market price. Yield to maturity is a bond's expected internal rate of return, assuming it will be held to maturity, that is, the discount rate which equates all remaining cash flows to the investor (all remaining coupons and repayment of the par value at maturity) with the current market price.
+
+Based on the banking business, there are deposit interest rate and loan interest rate.
+
+Based on the relationship between supply and demand of market interest rate, there are fixed interest rate and floating interest rate.
+
+Monetary policy
+Interest rate targets are a vital tool of monetary policy and are taken into account when dealing with variables like investment, inflation, and unemployment. The central banks of countries generally tend to reduce interest rates when they wish to increase investment and consumption in the country's economy. However, a low interest rate as a macro-economic policy can be risky and may lead to the creation of an economic bubble, in which large amounts of investments are poured into the real-estate market and stock market. In developed economies, interest-rate adjustments are thus made to keep inflation within a target range for the health of economic activities or cap the interest rate concurrently with economic growth to safeguard economic momentum.[3][4][5][6][7]
+
+History
+
+Germany experienced deposit interest rates from 14% in 1973 down to almost 2% in 2003
+In the past two centuries, interest rates have been variously set either by national governments or central banks. For example, the Federal Reserve federal funds rate in the United States has varied between about 0.25% and 19% from 1954 to 2008, while the Bank of England base rate varied between 0.5% and 15% from 1989 to 2009,[8][9] and Germany experienced rates close to 90% in the 1920s down to about 2% in the 2000s.[10][11] During an attempt to tackle spiraling hyperinflation in 2007, the Central Bank of Zimbabwe increased interest rates for borrowing to 800%.[12]
+
+The interest rates on prime credits in the late 1970s and early 1980s were far higher than had been recorded – higher than previous US peaks since 1800, than British peaks since 1700, or than Dutch peaks since 1600; "since modern capital markets came into existence, there have never been such high long-term rates" as in this period.[13]
+
+Possibly before modern capital markets, there have been some accounts that savings deposits could achieve an annual return of at least 25% and up to as high as 50%. (William Ellis and Richard Dawes, "Lessons on the Phenomenon of Industrial Life... ", 1857, p III–IV)
+
+Reasons for changes
+
+Prime rate floats about 3% above the federal funds rate
+  Credit card interest rates
+  Auto loan interest rate 48 months new autos
+  Prime rate
+  10 year Treasury bond
+  United States Consumer Price Index
+  Federal funds rate
+Political short-term gain: Lowering interest rates can give the economy a short-run boost. Under normal conditions, most economists think a cut in interest rates will only give a short term gain in economic activity that will soon be offset by inflation. The quick boost can influence elections. Most economists advocate independent central banks to limit the influence of politics on interest rates.
+Deferred consumption: When money is loaned the lender delays spending the money on consumption goods. Since according to time preference theory people prefer goods now to goods later, in a free market there will be a positive interest rate.
+Inflationary expectations: Most economies generally exhibit inflation, meaning a given amount of money buys fewer goods in the future than it will now. The borrower needs to compensate the lender for this.
+Alternative investments: The lender has a choice between using his money in different investments. If he chooses one, he forgoes the returns from all the others. Different investments effectively compete for funds.
+Risks of investment: There is always a risk that the borrower will go bankrupt, abscond, die, or otherwise default on the loan. This means that a lender generally charges a risk premium to ensure that, across his investments, he is compensated for those that fail.
+Liquidity preference: People prefer to have their resources available in a form that can immediately be exchanged, rather than a form that takes time to realize.
+Taxes: Because some of the gains from interest may be subject to taxes, the lender may insist on a higher rate to make up for this loss.
+Banks: Banks can tend to change the interest rate to either slow down or speed up economy growth. This involves either raising interest rates to slow the economy down, or lowering interest rates to promote economic growth.[14]
+Economy: Interest rates can fluctuate according to the status of the economy. It will generally be found that if the economy is strong then the interest rates will be high, if the economy is weak the interest rates will be low.
