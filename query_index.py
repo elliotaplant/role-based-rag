@@ -1,10 +1,6 @@
 import argparse
 from llama_index import StorageContext, load_index_from_storage
-# from RolesRetriever import RolesRetriever
 from llama_index.query_engine import RetrieverQueryEngine
-from llama_index.response_synthesizers import get_response_synthesizer
-from rag_query_engine import RAGQueryEngine
-from custom_retriever import CustomRetriever
 from llama_index.retrievers import VectorIndexRetriever
 from constants import ALLOWED_VALUE
 from llama_index.vector_stores.types import MetadataFilters

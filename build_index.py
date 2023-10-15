@@ -1,24 +1,31 @@
 from llama_index.node_parser import SimpleNodeParser
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
-from constants import ALLOWED_VALUE, ENGINEERING_ROLE, FINANCE_ROLE
+from constants import ALLOWED_VALUE, ENGINEERING, FINANCE
+from role_metadata_extractor import RoleMetadataExtractor
+from llama_index.node_parser.extractors import (
+    MetadataExtractor,
+    MetadataFeatureExtractor
+)
 
 
-engineering_docs = SimpleDirectoryReader(
-    'documents/engineering').load_data()
+nodes = []
+for role in [ENGINEERING, FINANCE]:
+    docs = SimpleDirectoryReader(f'documents/{role}').load_data()
 
-finance_docs = SimpleDirectoryReader(
-    'documents/finance').load_data()
+    class CustomExtractor(MetadataFeatureExtractor):
+        def class_name():
+            return 'CustomExtractor'
 
-parser = SimpleNodeParser.from_defaults()
+        def extract(self, nodes):
+            metadata_list = [{role: ALLOWED_VALUE} for node in nodes]
+            return metadata_list
 
-engineering_nodes = parser.get_nodes_from_documents(engineering_docs)
-for node in engineering_nodes:
-    node.metadata[ENGINEERING_ROLE] = ALLOWED_VALUE
+    extractor = MetadataExtractor(
+        extractors=[CustomExtractor()]
+    )
+    parser = SimpleNodeParser.from_defaults(metadata_extractor=extractor)
+    nodes = nodes + parser.get_nodes_from_documents(docs)
 
-finance_nodes = parser.get_nodes_from_documents(finance_docs)
-for node in finance_nodes:
-    node.metadata[FINANCE_ROLE] = ALLOWED_VALUE
-
-index = VectorStoreIndex(engineering_nodes + finance_nodes)
+index = VectorStoreIndex(nodes)
 
 index.storage_context.persist()
