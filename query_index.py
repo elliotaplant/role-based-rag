@@ -5,6 +5,9 @@ from llama_index.retrievers import VectorIndexRetriever
 from constants import ALLOWED_VALUE
 from llama_index.vector_stores.types import MetadataFilters
 
+# Parse command line arguments
+# Note that only one role is allowed because llama_index currently only supports
+#   exact-matching metadata keys, which prevents authorization by role "intersection"
 parser = argparse.ArgumentParser(description='Process some arguments.')
 parser.add_argument('--role', type=str, required=True,
                     help='Role must be in [ENGINEERING, FINANCE]')
@@ -13,28 +16,19 @@ parser.add_argument('--query', type=str, required=True,
 
 args = parser.parse_args()
 
-print(args.query)
-
+# Load the index from disk
 storage_context = StorageContext.from_defaults(persist_dir="./storage")
 index = load_index_from_storage(storage_context)
 
-# Customer retriever
-# retriever = RolesRetriever()
-
-# query_engine = RetrieverQueryEngine(retriever=retriever)
-
+# Create a filter that prevents the query from reading documents that do not
+#   have the required role allowed in their metadata
 metadata_filters = MetadataFilters.from_dict({args.role: ALLOWED_VALUE})
 
+# Use the filter in the query on the index
 vector_retriever = VectorIndexRetriever(index=index, filters=metadata_filters)
-
-# query_engine = index.as_query_engine(retriever=custom_retriever)
 query_engine = RetrieverQueryEngine.from_args(
     retriever=vector_retriever, service_context=index.service_context)
-# retriever = index.as_retriever()
-# synthesizer = get_response_synthesizer(response_mode="compact")
-# query_engine = RAGQueryEngine(
-#     retriever=retriever, response_synthesizer=synthesizer)
-
 response = query_engine.query(args.query)
 
+# Display the response to the TTY
 print(str(response))
