@@ -1,7 +1,7 @@
-# langsafe-rag
+# Role Based RAG
 
 ## Description
-`langsafe-rag` demonstrates the implementation of role-based access control (RBAC) in a LLM vector database. The application manages access to the nodes of the vector database by attaching an allowlist of roles to the metadata of each node. This enables nodes to have an unlimited number of allowed roles. If the application were extended to use "real" data sources, those roles could be sourced from the data source API, such as the GoogleDrive API.
+`role-based-rag` demonstrates the implementation of role-based access control (RBAC) in a LLM vector database. The application manages access to the nodes of the vector database by attaching an allowlist of roles to the metadata of each node. This enables nodes to have an unlimited number of allowed roles. If the application were extended to use "real" data sources, those roles could be sourced from the data source API, such as the GoogleDrive API.
 
 ## Limitations
 
